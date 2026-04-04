@@ -1,0 +1,40 @@
+body{
+    background-color: #7E75B6;
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: fit-content;
+    border-radius: 10px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    background-color: #01102D;
+    
+}
+
+nav ul{
+    
+    margin: 0px;
+    padding:0px;
+    
+    
+}
+
+nav li{
+    display: inline-block;
+    
+    padding: 14px; 
+    list-style-type: none;
+    margin: 0px;
+    
+    
+}
+
+nav a{
+    color: #639FD5;
+    padding: 0px;
+    margin: 0px;
+}
