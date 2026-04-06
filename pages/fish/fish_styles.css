@@ -1,4 +1,11 @@
 body{
-    background-color: aquamarine;
-    gap: 0px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #7E75B6;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #639FD5;
+
 }
